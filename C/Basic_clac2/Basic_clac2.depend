@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597246527 source:c:\vaibhav\coding\c\basic_clac2\main.c
+	<stdio.h>
+	<stdlib.h>
+

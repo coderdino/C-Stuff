@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1597246336 source:c:\vaibhav\coding\c\basic_calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1597247118 source:z:\c\basic_calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
